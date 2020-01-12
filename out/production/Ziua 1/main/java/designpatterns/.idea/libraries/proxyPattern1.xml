@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="proxyPattern1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/DesignPatterns/proxy/proxyPattern.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

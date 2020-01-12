@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Cafea">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/DesignPatterns/decorator/Cafea.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
